@@ -9,11 +9,12 @@
 
 ```javascript
 const cristian = {
-    code:[JavaScript, Typescript, HTML, CSS, Python],
+    code:[JavaScript, Typescript, HTML, CSS, Python, Dart],
 
     technologies:{
         frontEnd: {
-            js:["React", "Angular"]
+            js:["React", "Angular"],
+            dart:["Flutter"]
         },
 
         backEnd:{
