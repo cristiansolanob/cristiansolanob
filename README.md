@@ -9,7 +9,7 @@
 
 ```javascript
 const cristian = {
-    code:[JavaScript, Typescript, HTML, CSS, Python, Dart],
+    code:[JavaScript, TypeScript, HTML, CSS, Python, Dart],
 
     technologies:{
         frontEnd: {
