@@ -13,7 +13,7 @@ const cristian = {
 
     technologies:{
         frontEnd: {
-            js:["React", "Angular"],
+            js:["React", "Angular", "Ionic"],
             dart:["Flutter"]
         },
 
