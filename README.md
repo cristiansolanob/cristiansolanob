@@ -2,7 +2,7 @@
 
 <p>
   <em>
-    &#129299 Systems engineering student at <a href="https://www.ustatunja.edu.co/" target="_blank">Santo Tomás University</a>       </em> 
+    &#129299 Systems Engineer graduated from <a href="https://www.ustatunja.edu.co/" target="_blank">Santo Tomás University</a>       </em> 
 </p> 
 
 <p>&#128526 A little more about me ...</p>
