@@ -25,7 +25,7 @@ const cristian = {
         databases:["MongoDb", "MySQL", "PostgreSQL"],
     },
 
-    currentOccupation:"Junior flutter developer at luxitylab and systems engineering student",
+    currentOccupation:"Full Stack developer at Socius",
 
     challenge: "Learn something every day and learn to speak English completely",
 }
