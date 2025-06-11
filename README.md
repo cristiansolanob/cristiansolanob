@@ -18,7 +18,7 @@ const cristian = {
         },
 
         backEnd:{
-            js:["Node", "Express"],
+            js:["Node", "Express", "Nest"],
             python:["Django"],
         },
 
