@@ -13,8 +13,9 @@ const cristian = {
 
     technologies:{
         frontEnd: {
-            js:["React", "Angular", "Ionic"],
-            dart:["Flutter"]
+            js:["React", "Angular", "Astro", "Ionic"],
+            dart:["Flutter"],
+            CSS: ["Bootstrap", "Tailwind"]
         },
 
         backEnd:{
