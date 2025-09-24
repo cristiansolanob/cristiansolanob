@@ -19,7 +19,7 @@ const cristian = {
         },
 
         backEnd:{
-            js:["Node", "Express", "Nest"],
+            js:["Node", "Express", "Nest", "Next"],
             python:["Django"],
             C#: [".NET"]
         },
