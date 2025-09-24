@@ -26,7 +26,5 @@ const cristian = {
     },
 
     currentOccupation:"Full Stack developer at Socius",
-
-    challenge: "Learn something every day and learn to speak English completely",
 }
 ```
