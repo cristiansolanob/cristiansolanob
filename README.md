@@ -9,24 +9,25 @@
 
 ```javascript
 const cristian = {
-    code:["JavaScript", "TypeScript", "HTML", "CSS", "Python", "Dart", "C#"],
+  "code": ["JavaScript", "TypeScript", "HTML", "CSS", "Python", "Dart", "C#"],
 
-    technologies:{
-        frontEnd: {
-            js:["React", "Angular", "Astro", "Ionic"],
-            dart:["Flutter"],
-            CSS: ["Bootstrap", "Tailwind"]
-        },
-
-        backEnd:{
-            js:["Node", "Express", "Nest", "Next"],
-            python:["Django"],
-            C#: [".NET"]
-        },
-
-        databases:["MongoDb", "MySQL", "PostgreSQL"],
+  "technologies": {
+    "frontEnd": {
+      "js": ["React", "Angular", "Astro", "Ionic"],
+      "dart": ["Flutter"],
+      "CSS": ["Bootstrap", "Tailwind"]
     },
 
-    currentOccupation:"Full Stack developer at Socius",
+    "backEnd": {
+      "js": ["Node", "Express", "Nest", "Next"],
+      "python": ["Django"],
+      "C#": [".NET"]
+    },
+
+    "databases": ["MongoDb", "MySQL", "PostgreSQL"]
+  },
+
+  "currentOccupation": "Full Stack developer at Socius"
 }
+
 ```
