@@ -9,7 +9,7 @@
 
 ```javascript
 const cristian = {
-    code:[JavaScript, TypeScript, HTML, CSS, Python, Dart, .NET],
+    code:["JavaScript", "TypeScript", "HTML", "CSS", "Python", "Dart", "C#"],
 
     technologies:{
         frontEnd: {
@@ -21,6 +21,7 @@ const cristian = {
         backEnd:{
             js:["Node", "Express", "Nest"],
             python:["Django"],
+            C#: [".NET"]
         },
 
         databases:["MongoDb", "MySQL", "PostgreSQL"],
